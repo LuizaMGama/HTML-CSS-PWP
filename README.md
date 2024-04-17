@@ -1,2 +1,2 @@
 # PraRoz-Webpage-Design
-Repertório dedicado aos projetos de HTML e CSS com a ferramenta Visual Studio Code.
+Repositório dedicado à criação de uma página web utilizando HTML e CSS no Visual Studio Code.
